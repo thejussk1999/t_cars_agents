@@ -15,4 +15,4 @@ T Cars is a small rental agency and they started getting customer requests throu
 - We also used handoff functionality to ensure that appropriate agent is handed over the task. 
 
 ## Screenshot
-![Alt text]("images/readme-ss.png?raw=true")
+![Alt text](images/readme-ss.png?raw=true)
